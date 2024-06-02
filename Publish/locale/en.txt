@@ -6,7 +6,7 @@
 tour.description = Apartment Virtual Tour
 
 ### Title
-tour.name = Spaces
+tour.name = Places
 
 ## Skin
 
